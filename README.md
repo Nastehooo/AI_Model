@@ -15,5 +15,5 @@ pip install pandas matplotlib seaborn
 ## Usage
 Clone this repository and navigate to the project directory:
 bash
-git clone https://github.com/Nastehooo/Healthcare-Diabetes.git
+git clone  (https://github.com/Nastehooo/Healthcare-Diabetes.git](https://github.com/Nastehooo/Healthcare-Diabetes.git)
 cd Healthcare-Diabetes
